@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jiewei Wei</h1>
+<h1 align="center">Hi, I'm weiox</h1>
 
 <p align="center">
   I build developer tools, agent tooling, and technical writing projects with a bias toward clarity, maintainability, and practical workflows.
