@@ -12,11 +12,6 @@
   <a href="https://github.com/weiox/everystep">everystep</a>
 </p>
 
-## Projects
-
-- **[skm](https://github.com/weiox/skm)** — Agent Skill Manager for Claude Code and Codex. Built to keep local skills discoverable, organized, synced, and maintainable.
-- **[everystep](https://github.com/weiox/everystep)** — Technical writing on C++, systems, and engineering practice, focused on making hard topics clear and practical.
-
 ## Focus
 
 - developer tooling
